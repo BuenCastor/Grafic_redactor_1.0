@@ -1,0 +1,10 @@
+C:\Users\ARTEM\source\repos\Графический редактор\Графический редактор\bin\Debug\Графический редактор.exe.config
+C:\Users\ARTEM\source\repos\Графический редактор\Графический редактор\bin\Debug\Графический редактор.exe
+C:\Users\ARTEM\source\repos\Графический редактор\Графический редактор\bin\Debug\Графический редактор.pdb
+C:\Users\ARTEM\source\repos\Графический редактор\Графический редактор\obj\Debug\Графический редактор.csprojAssemblyReference.cache
+C:\Users\ARTEM\source\repos\Графический редактор\Графический редактор\obj\Debug\Графический_редактор.Properties.Resources.resources
+C:\Users\ARTEM\source\repos\Графический редактор\Графический редактор\obj\Debug\Графический редактор.csproj.GenerateResource.cache
+C:\Users\ARTEM\source\repos\Графический редактор\Графический редактор\obj\Debug\Графический редактор.csproj.CoreCompileInputs.cache
+C:\Users\ARTEM\source\repos\Графический редактор\Графический редактор\obj\Debug\Графический редактор.exe
+C:\Users\ARTEM\source\repos\Графический редактор\Графический редактор\obj\Debug\Графический редактор.pdb
+C:\Users\ARTEM\source\repos\Графический редактор\Графический редактор\obj\Debug\Графический_редактор.MainForm.resources
